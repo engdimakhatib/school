@@ -1,0 +1,383 @@
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات_في_كل_قاعة.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Forms.واجهة_إضافة_مستخدم_جديد.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Forms.واجهة_إضافة_منصب_جديد.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Forms.واجهة_صلاحية_كل_منصب.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Properties.Resources.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الصفحة_الرئيسية.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الموظفين.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_تعديل_الموظفين.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_sms.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_whatsapp.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_القاعات.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_اللطلاب.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إنشاء_نسخة_احتياطية.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_استعادة_نسخة_احتياطية.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_الدرجات.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_درجات_المواد.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_عرض_صورة_الموظف.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_اللغات_و_العملات.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_تسجيل__الدخول.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الأعمال_المكلفة.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_العام_الدراسي_و_العطل.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_عطل.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدخال_المواد.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_النسخ_الاحتياطي_و_الاستعادة.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إعدادات_البرنامج.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الشعب.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الفئات.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الاختبارات.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الدوام.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الطباعة.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.GenerateResource.cache
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.exe.licenses
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.CoreCompileInputs.cache
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\MYSCHOOLFINAL.exe.config
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\MYSCHOOLFINAL.exe
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\MYSCHOOLFINAL.pdb
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.PivotGrid.v20.2.Core.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.RichEdit.v20.2.Export.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraGauges.v20.2.Core.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraReports.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.DataAccess.v20.2.UI.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraPivotGrid.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraCharts.v20.2.Extensions.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraDiagram.v20.2.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Diagram.v20.2.Core.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.PivotGrid.v20.2.Core.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraGauges.v20.2.Core.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraReports.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraReports.v20.2.Extensions.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.DataAccess.v20.2.UI.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraPivotGrid.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.XtraDiagram.v20.2.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\DevExpress.Diagram.v20.2.Core.xml
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.PivotGrid.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraGauges.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraReports.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraReports.v20.2.Extensions.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.DataAccess.v20.2.UI.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.2.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\de\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\es\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ja\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\ru\DevExpress.Diagram.v20.2.Core.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.CopyComplete
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.exe
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.pdb
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\en\MYSCHOOLFINAL.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الاختبارات.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الشعب.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الفئات.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_القاعات.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_اللطلاب.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات_في_كل_قاعة.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الموظفين.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدخال_المواد.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_اللغات_و_العملات.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_تعديل_الموظفين.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_استعادة_نسخة_احتياطية.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\en\MYSCHOOLFINAL.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_عطل.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\bin\Debug\en-AS\MYSCHOOLFINAL.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إعدادات_البرنامج.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إنشاء_نسخة_احتياطية.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الأعمال_المكلفة.en-AS.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الأعمال_المكلفة.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الصفحة_الرئيسية.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_العام_الدراسي_و_العطل.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_النسخ_الاحتياطي_و_الاستعادة.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_تسجيل__الدخول.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_الدرجات.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_درجات_المواد.en.resources
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\en-AS\MYSCHOOLFINAL.resources.dll
+C:\Users\Prog\Desktop\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csprojAssemblyReference.cache
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\bin\Debug\MYSCHOOLFINAL.exe.config
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\bin\Debug\MYSCHOOLFINAL.exe
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\bin\Debug\MYSCHOOLFINAL.pdb
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\bin\Debug\en\MYSCHOOLFINAL.resources.dll
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\bin\Debug\en-AS\MYSCHOOLFINAL.resources.dll
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.SuggestedBindingRedirects.cache
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات_في_كل_قاعة.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Forms.واجهة_إضافة_مستخدم_جديد.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Forms.واجهة_إضافة_منصب_جديد.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Forms.واجهة_صلاحية_كل_منصب.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Properties.Resources.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الصفحة_الرئيسية.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الموظفين.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_تعديل_الموظفين.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_sms.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_whatsapp.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_القاعات.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_اللطلاب.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إنشاء_نسخة_احتياطية.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_استعادة_نسخة_احتياطية.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_الدرجات.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_درجات_المواد.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_عرض_صورة_الموظف.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_اللغات_و_العملات.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_تسجيل__الدخول.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الأعمال_المكلفة.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_العام_الدراسي_و_العطل.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_عطل.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدخال_المواد.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_النسخ_الاحتياطي_و_الاستعادة.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إعدادات_البرنامج.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الشعب.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الفئات.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الاختبارات.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الدوام.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الطباعة.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الاختبارات.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الشعب.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الفئات.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_القاعات.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_اللطلاب.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات_في_كل_قاعة.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الموظفين.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدخال_المواد.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_اللغات_و_العملات.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_تعديل_الموظفين.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_عطل.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إنشاء_نسخة_احتياطية.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_استعادة_نسخة_احتياطية.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الأعمال_المكلفة.en-AS.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الأعمال_المكلفة.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الصفحة_الرئيسية.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_العام_الدراسي_و_العطل.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_النسخ_الاحتياطي_و_الاستعادة.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_تسجيل__الدخول.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_الدرجات.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_درجات_المواد.en.resources
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.GenerateResource.cache
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.exe.licenses
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.CoreCompileInputs.cache
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\en\MYSCHOOLFINAL.resources.dll
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\en-AS\MYSCHOOLFINAL.resources.dll
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.CopyComplete
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.exe
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.pdb
+D:\فلاشة1\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.AssemblyReference.cache
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\bin\Debug\MYSCHOOLFINAL.exe.config
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\bin\Debug\MYSCHOOLFINAL.exe
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\bin\Debug\MYSCHOOLFINAL.pdb
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\bin\Debug\en\MYSCHOOLFINAL.resources.dll
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\bin\Debug\en-AS\MYSCHOOLFINAL.resources.dll
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.SuggestedBindingRedirects.cache
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إعدادات_البرنامج.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات_في_كل_قاعة.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Forms.واجهة_إضافة_مستخدم_جديد.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Forms.واجهة_إضافة_منصب_جديد.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Forms.واجهة_صلاحية_كل_منصب.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.Properties.Resources.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الصفحة_الرئيسية.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الموظفين.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_تعديل_الموظفين.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_sms.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_whatsapp.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_القاعات.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_اللطلاب.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إنشاء_نسخة_احتياطية.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_استعادة_نسخة_احتياطية.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_الدرجات.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_درجات_المواد.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_عرض_صورة_الموظف.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_اللغات_و_العملات.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_تسجيل__الدخول.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الأعمال_المكلفة.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_العام_الدراسي_و_العطل.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_عطل.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدخال_المواد.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_النسخ_الاحتياطي_و_الاستعادة.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الشعب.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الفئات.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الاختبارات.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الدوام.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الطباعة.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الاختبارات.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الشعب.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الفئات.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_القاعات.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_اللطلاب.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_المعدات_في_كل_قاعة.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدارة_الموظفين.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إدخال_المواد.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_اللغات_و_العملات.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_تعديل_الموظفين.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إضافة_عطل.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_إنشاء_نسخة_احتياطية.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_استعادة_نسخة_احتياطية.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الأعمال_المكلفة.en-AS.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الأعمال_المكلفة.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_الصفحة_الرئيسية.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_العام_الدراسي_و_العطل.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_النسخ_الاحتياطي_و_الاستعادة.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_تسجيل__الدخول.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_الدرجات.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.واجهة_توزيع_درجات_المواد.en.resources
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.GenerateResource.cache
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.exe.licenses
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.CoreCompileInputs.cache
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\en\MYSCHOOLFINAL.resources.dll
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\en-AS\MYSCHOOLFINAL.resources.dll
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.csproj.CopyComplete
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.exe
+D:\dima\المشروع الجديد الشغّال\MYSCHOOLFINAL\obj\Debug\MYSCHOOLFINAL.pdb

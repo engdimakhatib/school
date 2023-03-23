@@ -1,0 +1,622 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{065414F7-47F7-453F-8224-6F41FAAA5415}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MYSCHOOLFINAL</RootNamespace>
+    <AssemblyName>MYSCHOOLFINAL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Charts.v20.2.Core, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v20.2.Core, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v20.2.Core, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v20.2.Core, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v20.2.Core, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v20.2.Core, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v20.2.Export, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v20.2.Core, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v20.2.UI, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v20.2.Core, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v20.2, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v20.2.Extensions, Version=20.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DoamEMP.cs" />
+    <Compile Include="DoamSub.cs" />
+    <Compile Include="Forms\واجهة_إعدادات_البرنامج.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إعدادات_البرنامج.Designer.cs">
+      <DependentUpon>واجهة_إعدادات_البرنامج.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إضافة_مستخدم_جديد.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إضافة_مستخدم_جديد.Designer.cs">
+      <DependentUpon>واجهة_إضافة_مستخدم_جديد.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إضافة_منصب_جديد.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إضافة_منصب_جديد.Designer.cs">
+      <DependentUpon>واجهة_إضافة_منصب_جديد.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_سماحية_المنصب.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_سماحية_المنصب.Designer.cs">
+      <DependentUpon>واجهة_سماحية_المنصب.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\DbProvider.cs" />
+    <Compile Include="PL\MessStu.cs" />
+    <Compile Include="PL\Exam.cs" />
+    <Compile Include="PL\Category.cs" />
+    <Compile Include="PL\Division.cs" />
+    <Compile Include="PL\ClassDivisionCategory.cs" />
+    <Compile Include="PL\HeaderCheckBox.cs" />
+    <Compile Include="PL\Permission.cs" />
+    <Compile Include="PL\Setting.cs" />
+    <Compile Include="dbHelper.cs" />
+    <Compile Include="DXL\DXL.cs" />
+    <Compile Include="PL\GifImage.cs" />
+    <Compile Include="PL\Hall.cs" />
+    <Compile Include="OvalPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PL\EMP.cs" />
+    <Compile Include="PL\StuMark.cs" />
+    <Compile Include="Print.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\واجهة_الصفحة_الرئيسية.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_الصفحة_الرئيسية.Designer.cs">
+      <DependentUpon>واجهة_الصفحة_الرئيسية.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_الموظفين.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_الموظفين.Designer.cs">
+      <DependentUpon>واجهة_إدارة_الموظفين.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إضافة_تعديل_الموظفين.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إضافة_تعديل_الموظفين.Designer.cs">
+      <DependentUpon>واجهة_إضافة_تعديل_الموظفين.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_sms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_sms.Designer.cs">
+      <DependentUpon>واجهة_sms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_whatsapp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_whatsapp.Designer.cs">
+      <DependentUpon>واجهة_whatsapp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_القاعات.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_القاعات.Designer.cs">
+      <DependentUpon>واجهة_إدارة_القاعات.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_اللطلاب.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_اللطلاب.Designer.cs">
+      <DependentUpon>واجهة_إدارة_اللطلاب.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_المعدات.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_المعدات.Designer.cs">
+      <DependentUpon>واجهة_إدارة_المعدات.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إنشاء_نسخة_احتياطية.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إنشاء_نسخة_احتياطية.Designer.cs">
+      <DependentUpon>واجهة_إنشاء_نسخة_احتياطية.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_استعادة_نسخة_احتياطية.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_استعادة_نسخة_احتياطية.Designer.cs">
+      <DependentUpon>واجهة_استعادة_نسخة_احتياطية.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_توزيع_الدرجات.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_توزيع_الدرجات.Designer.cs">
+      <DependentUpon>واجهة_توزيع_الدرجات.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_توزيع_درجات_المواد.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_توزيع_درجات_المواد.Designer.cs">
+      <DependentUpon>واجهة_توزيع_درجات_المواد.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_عرض_صورة_الموظف.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_عرض_صورة_الموظف.Designer.cs">
+      <DependentUpon>واجهة_عرض_صورة_الموظف.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إضافة_اللغات_و_العملات.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إضافة_اللغات_و_العملات.Designer.cs">
+      <DependentUpon>واجهة_إضافة_اللغات_و_العملات.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_تسجيل _الدخول.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_تسجيل _الدخول.Designer.cs">
+      <DependentUpon>واجهة_تسجيل _الدخول.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_الأعمال_المكلفة.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_الأعمال_المكلفة.Designer.cs">
+      <DependentUpon>واجهة_الأعمال_المكلفة.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\StudyYear.cs" />
+    <Compile Include="Forms\واجهة_العام_الدراسي_و العطل.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_العام_الدراسي_و العطل.Designer.cs">
+      <DependentUpon>واجهة_العام_الدراسي_و العطل.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إضافة_عطل.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إضافة_عطل.Designer.cs">
+      <DependentUpon>واجهة_إضافة_عطل.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\Subject.cs" />
+    <Compile Include="Forms\واجهة_إدخال_المواد.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدخال_المواد.Designer.cs">
+      <DependentUpon>واجهة_إدخال_المواد.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_المعدات_في_كل_قاعة.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_المعدات_في_كل_قاعة.Designer.cs">
+      <DependentUpon>واجهة_إدارة_المعدات_في_كل_قاعة.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_النسخ_الاحتياطي_و_الاستعادة.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_النسخ_الاحتياطي_و_الاستعادة.Designer.cs">
+      <DependentUpon>واجهة_النسخ_الاحتياطي_و_الاستعادة.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PL\STU.cs" />
+    <Compile Include="Forms\واجهة_إدارة_الشعب.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_الشعب.Designer.cs">
+      <DependentUpon>واجهة_إدارة_الشعب.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_الفئات.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_الفئات.Designer.cs">
+      <DependentUpon>واجهة_إدارة_الفئات.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_الاختبارات.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_إدارة_الاختبارات.Designer.cs">
+      <DependentUpon>واجهة_إدارة_الاختبارات.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_الدوام.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_الدوام.Designer.cs">
+      <DependentUpon>واجهة_الدوام.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\واجهة_الطباعة.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\واجهة_الطباعة.Designer.cs">
+      <DependentUpon>واجهة_الطباعة.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\واجهة_إعدادات_البرنامج.resx">
+      <DependentUpon>واجهة_إعدادات_البرنامج.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_الاختبارات.en.resx">
+      <DependentUpon>واجهة_إدارة_الاختبارات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_الشعب.en.resx">
+      <DependentUpon>واجهة_إدارة_الشعب.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_الفئات.en.resx">
+      <DependentUpon>واجهة_إدارة_الفئات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_القاعات.en.resx">
+      <DependentUpon>واجهة_إدارة_القاعات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_اللطلاب.en.resx">
+      <DependentUpon>واجهة_إدارة_اللطلاب.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_المعدات.en.resx">
+      <DependentUpon>واجهة_إدارة_المعدات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_المعدات_في_كل_قاعة.en.resx">
+      <DependentUpon>واجهة_إدارة_المعدات_في_كل_قاعة.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_المعدات_في_كل_قاعة.resx">
+      <DependentUpon>واجهة_إدارة_المعدات_في_كل_قاعة.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_الموظفين.en.resx">
+      <DependentUpon>واجهة_إدارة_الموظفين.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدخال_المواد.en.resx">
+      <DependentUpon>واجهة_إدخال_المواد.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إضافة_اللغات_و_العملات.en.resx">
+      <DependentUpon>واجهة_إضافة_اللغات_و_العملات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إضافة_تعديل_الموظفين.en.resx">
+      <DependentUpon>واجهة_إضافة_تعديل_الموظفين.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إضافة_عطل.en.resx">
+      <DependentUpon>واجهة_إضافة_عطل.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إضافة_مستخدم_جديد.resx">
+      <DependentUpon>واجهة_إضافة_مستخدم_جديد.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إضافة_منصب_جديد.resx">
+      <DependentUpon>واجهة_إضافة_منصب_جديد.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إنشاء_نسخة_احتياطية.en.resx">
+      <DependentUpon>واجهة_إنشاء_نسخة_احتياطية.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_استعادة_نسخة_احتياطية.en.resx">
+      <DependentUpon>واجهة_استعادة_نسخة_احتياطية.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_الأعمال_المكلفة.en-AS.resx">
+      <DependentUpon>واجهة_الأعمال_المكلفة.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_الأعمال_المكلفة.en.resx">
+      <DependentUpon>واجهة_الأعمال_المكلفة.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_الصفحة_الرئيسية.en.resx">
+      <DependentUpon>واجهة_الصفحة_الرئيسية.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_العام_الدراسي_و العطل.en.resx">
+      <DependentUpon>واجهة_العام_الدراسي_و العطل.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_النسخ_الاحتياطي_و_الاستعادة.en.resx">
+      <DependentUpon>واجهة_النسخ_الاحتياطي_و_الاستعادة.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_تسجيل _الدخول.en.resx">
+      <DependentUpon>واجهة_تسجيل _الدخول.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_توزيع_الدرجات.en.resx">
+      <DependentUpon>واجهة_توزيع_الدرجات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_توزيع_درجات_المواد.en.resx">
+      <DependentUpon>واجهة_توزيع_درجات_المواد.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_سماحية_المنصب.resx">
+      <DependentUpon>واجهة_سماحية_المنصب.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Forms\واجهة_الصفحة_الرئيسية.resx">
+      <DependentUpon>واجهة_الصفحة_الرئيسية.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_الموظفين.resx">
+      <DependentUpon>واجهة_إدارة_الموظفين.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إضافة_تعديل_الموظفين.resx">
+      <DependentUpon>واجهة_إضافة_تعديل_الموظفين.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_sms.resx">
+      <DependentUpon>واجهة_sms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_whatsapp.resx">
+      <DependentUpon>واجهة_whatsapp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_القاعات.resx">
+      <DependentUpon>واجهة_إدارة_القاعات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_اللطلاب.resx">
+      <DependentUpon>واجهة_إدارة_اللطلاب.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_المعدات.resx">
+      <DependentUpon>واجهة_إدارة_المعدات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إنشاء_نسخة_احتياطية.resx">
+      <DependentUpon>واجهة_إنشاء_نسخة_احتياطية.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_استعادة_نسخة_احتياطية.resx">
+      <DependentUpon>واجهة_استعادة_نسخة_احتياطية.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_توزيع_الدرجات.resx">
+      <DependentUpon>واجهة_توزيع_الدرجات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_توزيع_درجات_المواد.resx">
+      <DependentUpon>واجهة_توزيع_درجات_المواد.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_عرض_صورة_الموظف.resx">
+      <DependentUpon>واجهة_عرض_صورة_الموظف.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إضافة_اللغات_و_العملات.resx">
+      <DependentUpon>واجهة_إضافة_اللغات_و_العملات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_تسجيل _الدخول.resx">
+      <DependentUpon>واجهة_تسجيل _الدخول.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_الأعمال_المكلفة.resx">
+      <DependentUpon>واجهة_الأعمال_المكلفة.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_العام_الدراسي_و العطل.resx">
+      <DependentUpon>واجهة_العام_الدراسي_و العطل.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إضافة_عطل.resx">
+      <DependentUpon>واجهة_إضافة_عطل.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدخال_المواد.resx">
+      <DependentUpon>واجهة_إدخال_المواد.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_النسخ_الاحتياطي_و_الاستعادة.resx">
+      <DependentUpon>واجهة_النسخ_الاحتياطي_و_الاستعادة.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_الشعب.resx">
+      <DependentUpon>واجهة_إدارة_الشعب.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_الفئات.resx">
+      <DependentUpon>واجهة_إدارة_الفئات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_إدارة_الاختبارات.resx">
+      <DependentUpon>واجهة_إدارة_الاختبارات.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_الدوام.resx">
+      <DependentUpon>واجهة_الدوام.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\واجهة_الطباعة.resx">
+      <DependentUpon>واجهة_الطباعة.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Report\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HtmlFiles\OnWork.html" />
+    <Content Include="img\-file-download_90117.png" />
+    <None Include="img\تنزيل.png" />
+    <None Include="img\1034182.png" />
+    <None Include="img\1041985.png" />
+    <None Include="img\148764.png" />
+    <None Include="img\1057061.png" />
+    <None Include="img\1215092.png" />
+    <None Include="img\1214926.png" />
+    <None Include="img\1384023.png" />
+    <None Include="img\143437.png" />
+    <Content Include="img\1491254422-calendardateappontmentbookingreservation_82940.png" />
+    <None Include="img\2091540.png" />
+    <None Include="img\3003232.png" />
+    <None Include="img\2886665.png" />
+    <None Include="img\2921226.png" />
+    <None Include="img\1632602.png" />
+    <None Include="img\216658 %281%29.png" />
+    <None Include="img\1828817.png" />
+    <None Include="img\2546705.png" />
+    <None Include="img\3114824.png" />
+    <None Include="img\216658.png" />
+    <None Include="img\2946209.png" />
+    <None Include="img\3024768.png" />
+    <None Include="img\3024775.png" />
+    <None Include="img\254428.png" />
+    <None Include="img\254437.png" />
+    <None Include="img\2767188.png" />
+    <None Include="img\3793653.png" />
+    <None Include="img\3024770.png" />
+    <None Include="img\3024761.png" />
+    <None Include="img\149852.png" />
+    <None Include="img\3059408.png" />
+    <None Include="img\3022251.png" />
+    <None Include="img\2818765.png" />
+    <None Include="img\2920107.png" />
+    <None Include="img\3077325.png" />
+    <None Include="img\2340342.png" />
+    <None Include="img\3631620.png" />
+    <None Include="img\3157979.png" />
+    <None Include="img\1688988.png" />
+    <Content Include="img\4105930-calendar-days-duration-month-time-week-year_113945.png" />
+    <None Include="img\483408.png" />
+    <None Include="img\55281.png" />
+    <None Include="img\4903809.png" />
+    <None Include="img\4819813.png" />
+    <None Include="img\4524528.png" />
+    <None Include="img\4903802.png" />
+    <None Include="img\591855.png" />
+    <None Include="img\596473.png" />
+    <None Include="img\596469 %281%29.png" />
+    <None Include="img\4672788.png" />
+    <None Include="img\4672683.png" />
+    <None Include="img\4672727.png" />
+    <None Include="img\4672837.png" />
+    <None Include="img\4672826.png" />
+    <Content Include="img\6738367.png" />
+    <None Include="img\actions_document_print_15785.png" />
+    <None Include="img\7708956.png" />
+    <None Include="img\753317.png" />
+    <None Include="img\6861362.png" />
+    <None Include="img\7794315.png" />
+    <None Include="img\7873824.png" />
+    <None Include="img\748138.png" />
+    <None Include="img\7861087.png" />
+    <None Include="img\954591.png" />
+    <Content Include="img\add %282%29.png" />
+    <Content Include="img\add %283%29.png" />
+    <Content Include="img\Add.png" />
+    <Content Include="img\backhome.png" />
+    <None Include="img\book.png" />
+    <Content Include="img\Books-icon.png" />
+    <None Include="img\Browsestu.png" />
+    <Content Include="img\CancelSms.png" />
+    <Content Include="img\CancelWhatsApp.png" />
+    <Content Include="img\cancel_77947.png" />
+    <Content Include="img\chat_mail_sms_twitter_icon_127133.png" />
+    <Content Include="img\closeye.png" />
+    <Content Include="img\delete %282%29.png" />
+    <Content Include="img\delete.png" />
+    <Content Include="img\Doam.png" />
+    <Content Include="img\Emp.png" />
+    <Content Include="img\Empicon.png" />
+    <Content Include="img\Error_22661.png" />
+    <Content Include="img\eye_slash_visible_hide_hidden_show_icon_145987.png" />
+    <Content Include="img\eye_visible_hide_hidden_show_icon_145988.png" />
+    <Content Include="img\first %282%29.png" />
+    <Content Include="img\First.png" />
+    <Content Include="img\firstaid_86239.png" />
+    <None Include="img\Firststu.png" />
+    <Content Include="img\hall.png" />
+    <Content Include="img\home.png" />
+    <Content Include="img\home_circle_icon_137496.png" />
+    <None Include="img\ic_person_add_128_28581.png" />
+    <None Include="img\images %282%29.png" />
+    <Content Include="img\images.png" />
+    <Content Include="img\landscape.png" />
+    <None Include="img\landscape2.png" />
+    <Content Include="img\last %282%29.png" />
+    <Content Include="img\Last.png" />
+    <None Include="img\Laststu.png" />
+    <Content Include="img\new_year_calendar_icon_176603.png" />
+    <Content Include="img\next %282%29.png" />
+    <Content Include="img\Next.png" />
+    <None Include="img\Nextstu.png" />
+    <Content Include="img\Open.jpeg" />
+    <Content Include="img\openeye.png" />
+    <Content Include="img\password.png" />
+    <Content Include="img\portrait.png" />
+    <Content Include="img\previous %282%29.png" />
+    <Content Include="img\Previous.png" />
+    <None Include="img\Previousstu.png" />
+    <Content Include="img\print.png" />
+    <None Include="img\received_1873207482885523.gif" />
+    <Content Include="img\refresh.png" />
+    <None Include="img\refresh_arrow_1546.png" />
+    <Content Include="img\School.png" />
+    <Content Include="img\search.png" />
+    <None Include="img\SearchStu.png" />
+    <Content Include="img\SendSms.png" />
+    <Content Include="img\SendWhatApp.png" />
+    <Content Include="img\settings.png" />
+    <Content Include="img\settingscog_87317.png" />
+    <Content Include="img\sms.png" />
+    <Content Include="img\SmsIcon.png" />
+    <Content Include="img\Stu.png" />
+    <Content Include="img\StudyYear %282%29.png" />
+    <Content Include="img\studyyear.png" />
+    <None Include="img\travel-holiday-vacation-322_89064.png" />
+    <None Include="img\Tutorial-icon.png" />
+    <None Include="img\Subjectbook.png" />
+    <None Include="img\UnknownStu.png" />
+    <Content Include="img\User.png" />
+    <Content Include="img\username.png" />
+    <Content Include="img\whatsapp.png" />
+    <Content Include="img\WhatsappIcon.png" />
+    <Content Include="img\Whatsapp_37229.png" />
+    <Content Include="img\whatsapp_icon-icons.com_62756.png" />
+    <Content Include="img\whatsapp_socialnetwork_17360.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
